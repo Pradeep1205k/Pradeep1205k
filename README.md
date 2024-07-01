@@ -7,7 +7,7 @@ Hi 👋 My name is Pradeep
 Learning basics of C, Java, and Python 3,HTML, CSS, JavaScript, and dabbling in algorithms Happy to be part of Github, ready to learn
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [https://github.com/Pradeep1205k/Portfolio](http://https://github.com/Pradeep1205k/SNH07)
+* 🖥️  See my portfolio at [https://github.com/Pradeep1205k/Portfolio](https://pradeep1205k.github.io/Portfolio/)
 * ✉️  You can contact me at [pradeep1205k@gmail.com](mailto:pradeep1205k@gmail.com)
 * 🧠  I'm learning Full Stack development
 * 🤝  I'm open to collaborating on in learning stage
