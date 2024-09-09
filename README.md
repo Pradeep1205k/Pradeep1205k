@@ -1,17 +1,17 @@
 Hi 👋 My name is Pradeep
 ========================
 
-3rd Year ,CSE Student at VCET,Puttur
+4th Year ,CSE Student at VCET,Puttur
 ------------------------------------
 
-Learning basics of C, Java, and Python 3,HTML, CSS, JavaScript, and dabbling in algorithms Happy to be part of Github, ready to learn
+Learning basics of C, Java, and Python 3, HTML, CSS, JavaScript, and dabbling in algorithms Happy to be part of Github, ready to learn
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://github.com/Pradeep1205k/Portfolio](https://pradeep1205k.github.io/Portfolio/)
 * ✉️  You can contact me at [pradeep1205k@gmail.com](mailto:pradeep1205k@gmail.com)
-* 🧠  I'm learning Full Stack development
-* 🤝  I'm open to collaborating on in learning stage
-* ⚡  I'm Artist, Creative, Assertive and also Iron-Man
+* 🧠  I'm learning Full Stack development.
+* 🤝  I'm open to collaborating on the learning stage.
+* ⚡  I'm an Artist, Creative, and Assertive.
 
 <a href="https://www.github.com/Pradeep1205k" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Pradeep1205k?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
