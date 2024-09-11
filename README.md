@@ -47,12 +47,16 @@ src="https://img.shields.io/github/followers/Pradeep1205k?logo=github&style=for-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center">
+<div>
     <a href="https://github.com/Pradeep1205k/Portfolio">
-        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pradeep1205k&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Pradeep1205k&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
     <a href="https://github.com/Pradeep1205k/Bank-Database-Management-System">
-        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pradeep1205k&repo=SNH07&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pradeep1205k&repo=Bank-Database-Management-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    </a>
+    <a href="https://github.com/Pradeep1205k/registration-form">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pradeep1205k&repo=registration-form&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
 </div>
+
 
