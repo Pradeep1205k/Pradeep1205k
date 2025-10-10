@@ -1,9 +1,11 @@
 <!-- HEADER: Typing animation -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=7000&pause=2000&color=1891B2&align=leaft&width=550&lines=Hi%2C+I'm+PRADEEP+%F0%9F%91%8B;"  />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=7000&pause=2000&color=0891B2&vCenter=true&width=550&lines=Hi%2C+I'm+Pradeep+%F0%9F%91%8B;" 
+    alt="Typing SVG" 
+  />
 </p>
 
----
 
 ### 👨‍💻 About Me  
 
