@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me  
 
-I’m a **Machine Learning Engineer** at **ENTRACE India Pvt. Ltd.** (formerly *LinkEZ Technologies*) —  
+I’m a **Software Engineer** working in **R&D in Machine Learning** at **ENTRACE India Pvt. Ltd.** (formerly *LinkEZ Technologies*) —  
 working on **Automation & Machine Vision Systems** for industrial applications.  
 
 🎓 **B.E. in Computer Science** — VCET Puttur  
