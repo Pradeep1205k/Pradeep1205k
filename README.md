@@ -1,33 +1,33 @@
 <!-- HEADER: Typing animation -->
 <p align="left">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=2000&color=0891B2&vCenter=true&width=550&lines=Hi%2C+I'm+Pradeep+%F0%9F%91%8B;" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=2000&color=0891B2&vCenter=true&width=550&lines=Hi%2C+I'm+Pradeep;" 
     alt="Typing SVG" 
   />
 </p>
 
 
-### 👨‍💻 About Me  
+###  About Me  
 
-I’m a **Software Engineer** working in **R&D in Machine Learning** at **ENTRACE India Pvt. Ltd.** (formerly *LinkEZ Technologies*) —  
+I’m a **Software Engineer** working in **R&D in Machine Learning** at **ENTRACE India Pvt. Ltd.** (formerly *LinkEZ Technologies*) -  
 working on **Automation & Machine Vision Systems** for industrial applications.  
 
-🎓 **B.E. in Computer Science** — VCET Puttur  
-💡 Passionate about **AI, Computer Vision, and Intelligent Automation**  
-⚙️ Turning data into decisions — *one frame at a time.*  
+ **B.E. in Computer Science** - VCET Puttur  
+ Passionate about **AI, Computer Vision, and Intelligent Automation**  
+ Turning data into decisions - *one frame at a time.*  
 
 ---
 
-### 🚀 What I Do  
+###  What I Do  
 
-- 🤖 **Object Detection & Tracking** — YOLOv8 · DeepSORT · ByteTrack  
-- 🧍‍♂️ **Pose Estimation** — MediaPipe · OpenPose  
-- 🧠 **Model Training & R&D** — Custom CNNs for Vision Tasks  
-- 🌐 **App Integration & Deployment** — Flask · React · Docker  
+-  **Object Detection & Tracking** - YOLOv8 · DeepSORT · ByteTrack  
+-  **Pose Estimation** - MediaPipe · OpenPose  
+-  **Model Training & R&D** - Custom CNNs for Vision Tasks  
+-  **App Integration & Deployment** - Flask · React · Docker  
 
 ---
 
-### 🧰 Tech Stack  
+###  Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,git,docker,mysql,vscode&theme=dark" />
@@ -35,7 +35,7 @@ working on **Automation & Machine Vision Systems** for industrial applications.
 
 ---
 
-### 📂 Featured Projects  
+###  Featured Projects  
 
 <p align="center">
   <a href="https://github.com/Pradeep1205k/Bank-Database-Management-System">
@@ -51,7 +51,7 @@ working on **Automation & Machine Vision Systems** for industrial applications.
 
 ---
 
-### 📈 GitHub Insights  
+###  GitHub Insights  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pradeep1205k&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
@@ -60,7 +60,7 @@ working on **Automation & Machine Vision Systems** for industrial applications.
 
 ---
 
-### 🌐 Connect With Me  
+###  Connect With Me  
 
 <p align="center">
   <a href="mailto:pradeep1205k@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" /></a>
