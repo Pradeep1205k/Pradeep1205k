@@ -13,14 +13,13 @@ I’m a **Software Engineer** working in **R&D in Machine Learning** at **ENTRAC
 working on **Automation & Machine Vision Systems** for industrial applications.  
 
  **B.E. in Computer Science** - VCET Puttur  
- Passionate about **AI, Computer Vision, and Intelligent Automation**  
- Turning data into decisions - *one frame at a time.*  
+ Passionate about **AI, Computer Vision, and Intelligent Automation**   
 
 ---
 
 ###  What I Do  
 
--  **Object Detection & Tracking** - YOLOv8 · DeepSORT · ByteTrack  
+-  **Object Detection & Tracking** - YOLOv8 · Yolov11   
 -  **Pose Estimation** - MediaPipe · OpenPose  
 -  **Model Training & R&D** - Custom CNNs for Vision Tasks  
 -  **App Integration & Deployment** - Flask · React · Docker  
